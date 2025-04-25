@@ -1,7 +1,3 @@
-Certainly! Based on the information available from the repository [ChrisChoBG/sample-app](https://github.com/ChrisChoBG/sample-app), here's a comprehensive `README.md` file for the project:
-
----
-
 # Sample App
 
 This repository demonstrates the implementation of a DevOps workflow using Google Cloud Platform (GCP). It showcases the deployment of a simple Go application on Google Kubernetes Engine (GKE) with automated CI/CD pipelines facilitated by Cloud Build.
